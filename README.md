@@ -1,6 +1,29 @@
 
+```yaml
+name: Ibrhaim
+email: ibrahimtahirbutt10@gmail.com
+located_in: Lahore, Pakistan
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ibmbt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ibmbt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibmbt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+education:
+  [
+    "Bachelor's in Computer Science",
+    "Alevels in Computer Science",
+  ]
+
+
+fields_of_interests:
+  [
+    "Artificial Intelegence",
+    "Machine Learning",
+    "C++",
+    "Game Dev",
+    "Operating Systems",
+  ]
+technical_background:
+  [
+    "Intern - Data Science & Machine Learning in Python",
+    "Harvard CS50",
+  ]
+  
+currently_learning: ["nvim, docker, unity, and arch"]
+```
