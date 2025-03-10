@@ -1,6 +1,6 @@
 
 ```yaml
-name: Ibrhaim
+name: Ibrhaim Butt
 email: ibrahimtahirbutt10@gmail.com
 located_in: Lahore, Pakistan
 
