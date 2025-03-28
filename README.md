@@ -9,8 +9,6 @@ education:
     "Bachelor's in Computer Science",
     "Alevels in Computer Science",
   ]
-
-
 fields_of_interests:
   [
     "Artificial Intelegence",
@@ -24,6 +22,11 @@ technical_background:
     "Intern - Data Science & Machine Learning in Python",
     "Harvard CS50",
   ]
-  
-currently_learning: ["nvim, docker, unity, and arch"]
+currently_learning:
+  [
+    "nvim",
+    "docker",
+    "unity",
+    "arch"
+  ]
 ```
