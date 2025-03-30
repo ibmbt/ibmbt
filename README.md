@@ -3,7 +3,6 @@
 name: Ibrhaim Butt
 email: ibrahimtahirbutt10@gmail.com
 located_in: Lahore, Pakistan
-
 education:
   [
     "Bachelor's in Computer Science",
@@ -26,7 +25,6 @@ currently_learning:
   [
     "nvim",
     "docker",
-    "unity",
     "arch"
   ]
 ```
