@@ -11,9 +11,6 @@ education:
 fields_of_interests:
   [
     "Artificial Intelegence",
-    "Machine Learning",
-    "C++",
-    "Game Dev",
     "Operating Systems",
   ]
 technical_background:
