@@ -10,18 +10,14 @@ education:
   ]
 fields_of_interests:
   [
-    "Artificial Intelegence",
     "Operating Systems",
   ]
-technical_background:
+background:
   [
     "Intern - Data Science & Machine Learning in Python",
     "Harvard CS50",
   ]
 currently_learning:
   [
-    "nvim",
-    "docker",
-    "arch"
   ]
 ```
