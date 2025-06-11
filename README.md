@@ -19,5 +19,7 @@ background:
   ]
 currently_learning:
   [
+    "JavaScript",
+    "Raylib"
   ]
 ```
