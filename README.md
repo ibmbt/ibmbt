@@ -15,8 +15,6 @@ fields_of_interests:
   ]
 background:
   [
-    "Intern - Data Science & Machine Learning in Python",
-    "Harvard CS50"
   ]
 currently_learning:
   [
