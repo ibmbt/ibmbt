@@ -10,8 +10,6 @@ education:
   ]
 fields_of_interests:
   [
-    "Operating Systems",
-    "Embedded Systems"
   ]
 background:
   [
