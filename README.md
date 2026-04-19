@@ -16,8 +16,8 @@ background:
   ]
 currently_learning:
   [
-    "JavaScript",
-    "Socekt Programming",
-    "Flutter"
+    "transformers",
+    "redis",
+    "automation"
   ]
 ```
