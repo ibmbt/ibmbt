@@ -10,6 +10,7 @@ education:
   ]
 fields_of_interests:
   [
+    "systems",
   ]
 background:
   [
@@ -17,7 +18,7 @@ background:
 currently_learning:
   [
     "transformers",
-    "redis",
+    "systems",
     "automation"
   ]
 ```
