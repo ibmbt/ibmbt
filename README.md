@@ -18,7 +18,6 @@ background:
 currently_learning:
   [
     "transformers",
-    "systems",
-    "automation"
+    "systems"
   ]
 ```
