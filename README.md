@@ -20,6 +20,7 @@ currently_learning:
     "virtual machines"
   ]
 contributions:
-  - repo: "https://github.com/hanan-chaudhry/inference-engine.git"
-    role: "Core Contributor"
+  [
+    repo: "https://github.com/hanan-chaudhry/inference-engine.git"
+  ]
 ```
