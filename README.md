@@ -1,23 +1,25 @@
 
 ```yaml
-name: Ibrhaim Butt
+name: Ibrahim Tahir Butt
 email: ibrahimtahirbutt10@gmail.com
 located_in: Lahore, Pakistan
 education:
   [
-    "Bachelors in Computer Science",
-    "Alevels in Computer Science"
+    "Bachelors in Computer Science"
   ]
-fields_of_interests:
+interests:
   [
-    "systems",
-  ]
-background:
-  [
+    "systems architecture",
+    "low-level programming",
+    "embedded systems"
   ]
 currently_learning:
   [
     "transformers",
-    "systems"
+    "systems",
+    "virtual machines"
   ]
+contributions:
+  - repo: "https://github.com/hanan-chaudhry/inference-engine.git"
+    role: "Core Contributor"
 ```
