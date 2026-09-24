@@ -22,3 +22,7 @@ ccccccccccccccccccccccccccccc:'.         ├─ Machine Learning
                                          Contributions
                                          └─ repo: "https://github.com/hanan-chaudhry/inference-engine.git"
 ```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,dart,react,flutter,fastapi,postgres,mysql,mongodb,redis,firebase,docker,linux,bash,cloudflare,aws,git,github,debian,redhat,vscode,androidstudio,lua,neovim,obsidian,postman,pytorch"/>
+</p>
