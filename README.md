@@ -5,7 +5,7 @@
     .:cccccccccccccccccccccccccc:.       Education   BS Computer Science
   .;ccccccccccccc;.:dddl:.;ccccccc;.     Location    Lahore, Pakistan
  .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    
-.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.   Focus
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.   Contact
 ,cccccccccccccc;MMM.;cc;;WW:;cccccccc,   ├─ ibrahimtahirbutt10@gmail.com
 :cccccccccccccc;MMM.;cccccccccccccccc:   ├─ bscs24043@itu.edu.pk
 :ccccccc;oxOOOo;MMM000k.;cccccccccccc:    
